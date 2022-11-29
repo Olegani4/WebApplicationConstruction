@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>The Picture of Dorian Gray</title>
+  <meta name="description" content="My Page Description">
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+</head>
+<body style="background-color:rgb(220, 220, 220);">
+  <script src="js/scripts.js"></script>
+
+<h1 style="font-weight:bold;">The Picture of Dorian Gray</h1>
+<h2 style="font-weight:bold;">by Oscar Wilde</h2>
+<img src="https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg" 
+     alt="Oscar Wilde" width="150px" height="200px">
+</img>
+<br>
+<br>
+<h2 style="font-weight:bold;">CHAPTER XIII.</h2>
+
+<p style="font-weight:600;">
+  He passed out of the room and began the ascent, Basil Hallward following close behind. They walked softly, 
+  as men do instinctively at night. The lamp cast fantastic shadows on the wall and staircase. A rising wind 
+  made some of the windows rattle. 
+  </p>
+
+<p style="font-weight:600;">
+When they reached the top landing, Dorian set the lamp down on the floor, and taking out the key, turned it
+in the lock. “You insist on knowing, Basil?” he asked in a low voice. 
+</p>
+
+<p style="font-weight:600;">
+“Yes.” 
+</p>
+
+<p style="font-weight:600;">
+“I am delighted,” he answered, smiling. Then he added, somewhat harshly, “You are the one man in the world 
+who is entitled to know everything about me. You have had more to do with my life than you think”; and, 
+taking up the lamp, he opened the door and went in. A cold current of air passed them, and the light shot up 
+for a moment in a flame of murky orange. He shuddered. “Shut the door behind you,” he whispered, as he placed 
+the lamp on the table. 
+</p>
+
+<p style="font-weight:600;">
+Hallward glanced round him with a puzzled expression. The room looked as if it had not been lived in for years. 
+A faded Flemish tapestry, a curtained picture, an old Italian cassone, and an almost empty book-case—that was 
+all that it seemed to contain, besides a chair and a table. As Dorian Gray was lighting a half-burned candle 
+that was standing on the mantelshelf, he saw that the whole place was covered with dust and that the carpet was 
+in holes. A mouse ran scuffling behind the wainscoting. There was a damp odour of mildew. 
+</p>
+
+<p style="font-weight:600;">
+“So you think that it is only God who sees the soul, Basil? Draw that curtain back, and you will see mine.” 
+</p>
+
+<p style="font-weight:600;">
+The voice that spoke was cold and cruel. “You are mad, Dorian, or playing a part,” muttered Hallward, frowning. 
+</p>
+
+<p style="font-weight:600;">
+“You won’t? Then I must do it myself,” said the young man, and he tore the curtain from its rod and flung it on 
+the ground. 
+</p>
+
+<p style="font-weight:600;">
+An exclamation of horror broke from the painter’s lips as he saw in the dim light the hideous face on the canvas 
+grinning at him. There was something in its expression that filled him with disgust and loathing. Good heavens! 
+it was Dorian Gray’s own face that he was looking at! The horror, whatever it was, had not yet entirely spoiled 
+that marvellous beauty. There was still some gold in the thinning hair and some scarlet on the sensual mouth. 
+The sodden eyes had kept something of the loveliness of their blue, the noble curves had not yet completely
+passed away from chiselled nostrils and from plastic throat. Yes, it was Dorian himself. But who had done it? He 
+seemed to recognize his own brushwork, and the frame was his own design. The idea was monstrous, yet he felt 
+afraid. He seized the lighted candle, and held it to the picture. In the left-hand corner was his own name, 
+traced in long letters of bright vermilion. 
+</p>
+
+<p style="font-weight:600;">
+It was some foul parody, some infamous ignoble satire. He had never done that. Still, it was his own picture. 
+</p>
+
+<p style="font-weight:600;">
+The young man was leaning against the mantelshelf, watching him with that strange expression that one sees on 
+the faces of those who are absorbed in a play when some great artist is acting. There was neither real sorrow 
+in it nor real joy. There was simply the passion of the spectator, with perhaps a flicker of triumph in his 
+eyes. He had taken the flower out of his coat, and was smelling it, or pretending to do so. 
+</p>
+
+<p style="font-weight:600;">
+“What does this mean?” cried Hallward, at last. His own voice sounded shrill and curious in his ears. 
+</p>
+
+<p style="font-weight:600;">
+“Years ago, when I was a boy,” said Dorian Gray, crushing the flower in his hand, “you met me, flattered me, and 
+taught me to be vain of my good looks. One day you introduced me to a friend of yours, who explained to me the 
+wonder of youth, and you finished a portrait of me that revealed to me the wonder of beauty. In a mad moment that, 
+even now, I don’t know whether I regret or not, I made a wish, perhaps you would call it a prayer....” 
+</p>
+
+<p style="font-weight:600;">
+“I remember it! Oh, how well I remember it! No! the thing is impossible. The room is damp. Mildew has got into the 
+canvas. The paints I used had some wretched mineral poison in them. I tell you the thing is impossible.” 
+</p>
+
+<p style="font-weight:600;">
+“Ah, what is impossible?” murmured the young man, going over to the window and leaning his forehead against the 
+cold, mist-stained glass. 
+</p>
+
+<p style="font-weight:600;">
+“You told me you had destroyed it.” 
+</p>
+
+<p style="font-weight:600;">
+“I was wrong. It has destroyed me.” 
+</p>
+
+<p style="font-weight:600;">
+“I don’t believe it is my picture.” 
+</p>
+
+<p style="font-weight:600;">
+“Can’t you see your ideal in it?” said Dorian bitterly. 
+</p>
+
+<p style="font-weight:600;">
+“My ideal, as you call it...” 
+</p>
+
+<p style="font-weight:600;">
+“As you called it.” 
+</p>
+
+<p style="font-weight:600;">
+“There was nothing evil in it, nothing shameful. You were to me such an ideal as I shall never meet again. This 
+is the face of a satyr.” 
+</p>
+
+<p style="font-weight:600;">
+“It is the face of my soul.” 
+</p>
+
+<p style="font-weight:600;">
+“Christ! what a thing I must have worshipped! It has the eyes of a devil.” 
+</p>
+
+<p style="font-weight:600;">
+“Each of us has heaven and hell in him, Basil,” cried Dorian with a wild gesture of despair. 
+</p>
+<br>
+<img src="https://m.media-amazon.com/images/I/41AGyMzzZxL._AC_SY780_.jpg" 
+     alt="The Picture of Dorian Gray" width="150px" height="200px">
+</img>
+
+
+</body>
+</html>
