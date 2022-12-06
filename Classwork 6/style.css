@@ -1,0 +1,49 @@
+    form{
+    border: 2px solid black;
+    border-radius: 25px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color:beige;
+    }
+    h1 {
+    font-family: cursive;
+    }
+    body{
+    text-align: center;
+    background-color:rgb(230, 230, 196);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: auto;
+    min-width:300px;
+    max-width:300px;
+    }
+    .corners {
+    border-radius: 25px;
+    background-color: rgb(255, 236, 212);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px;
+    width: 200px;
+    height: 1px;
+    }
+    .cornersSubmit {
+    border-radius: 25px;
+    background-color: rgb(170, 255, 141);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px;
+    width: 200px;
+    font-size: 20pt;
+    font-weight: 600;
+    cursor: pointer;
+    }
+    label{
+    font-family: cursive;
+    }
+    .typeFile{
+    padding-left: 36%;
+    padding-top: 2px;
+    }
+    input {
+    text-align: center;
+    }
