@@ -1,0 +1,155 @@
+    .header{
+        height: 25pt;
+        background-color: black;
+        color: white;
+        width: 120%;
+        padding-left: 10pt;
+        margin-top: -6pt;
+        margin-left: -6pt;
+        padding-top: 10pt;
+
+    }
+
+    .img-cities{
+        border-radius: 10pt;
+   
+        display: inline;
+    }
+
+    .header-p{
+        display: inline;
+        cursor: pointer;
+        font-weight: 600;
+    }
+
+    .header-p:hover{
+        color: rgb(170, 255, 141);
+    }
+
+    .footer {
+        height: 25pt;
+        background-color: black;
+        color: white;
+        width: 120%;
+        padding-left: 10pt;
+        margin-bottom: -6pt;
+        margin-left: -6pt;
+        padding-top: 10pt;
+    }
+    
+    
+    
+    form{
+    border: 2px solid black;
+    border-radius: 25px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color:beige;
+    }
+    h1 {
+    font-family: cursive;
+    }
+    .content{
+    text-align: center;
+    background-color:rgb(230, 230, 196);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: auto;
+    min-width:300px;
+    max-width:300px;
+    }
+    .corners {
+    border-radius: 25px;
+    background-color: rgb(255, 236, 212);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px;
+    width: 200px;
+    height: 1px;
+    }
+    .cornersSubmit {
+    border-radius: 25px;
+    background-color: rgb(170, 255, 141);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px;
+    width: 200px;
+    font-size: 20pt;
+    font-weight: 600;
+    cursor: pointer;
+    }
+    label{
+    font-family: cursive;
+    }
+    .typeFile{
+    padding-left: 36%;
+    padding-top: 2px;
+    
+    }
+    input {
+    text-align: center;
+    }
+
+    .switch {
+        border: 1.5px solid rgb(0, 0, 0);
+        border-radius: 30px;
+        position: relative;
+        display: inline-block;
+        width: 37pt;
+        height: 12pt;
+        margin-left: 10pt;
+        vertical-align: middle;
+    }
+    
+    .switch input {
+        opacity: 0;
+        width: 0;
+        height: 0;
+    }
+    
+    .slider {
+        position: absolute;
+        cursor: pointer;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: #ccc;
+        -webkit-transition: .4s;
+        transition: .4s;
+    }
+    
+    .slider:before {
+        border: 1.5px solid rgb(0, 0, 0);
+        position: absolute;
+        content: "";
+        height: 24px;
+        width: 24px;
+        left: -2px;
+        bottom: -5px;
+        background-color: white;
+        -webkit-transition: .4s;
+        transition: .4s;
+    }
+    
+    input:checked+.slider {
+        background-color: rgb(255, 236, 212);
+    }
+    
+    input:focus+.slider {
+        box-shadow: 0 0 1px rgb(255, 236, 212);
+    }
+    
+    input:checked+.slider:before {
+        -webkit-transform: translateX(26px);
+        -ms-transform: translateX(26px);
+        transform: translateX(26px);
+    }
+    
+    .slider.round {
+        border-radius: 34px;
+    }
+    
+    .slider.round:before {
+        border-radius: 50%;
+    }

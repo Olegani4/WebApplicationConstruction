@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PostCard</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+
+</head>
+<body style="background-color: rgb(230, 230, 196);">
+<div class="header">
+<p class="header-p"style="padding-left: 8pt;" onclick="window.open('postcard.html', '_self');">My Postcard</p>
+<p class="header-p" style="padding-left: 26pt;" onclick="window.open('about.html', '_self');">About</p>
+</div>
+
+<div class="content">
+<form>
+    <h1 style="font-size: 20pt;">Create Your Postcard</h1>
+         <label for="name">Name:</label><br>
+         <input class="corners" type="text" placeholder="Enter topic name"><br><br>
+
+         <label for="e-mail">E-mail:</label><br>
+         <input class="corners" type="text" placeholder="Enter e-mail to send"><br><br>
+
+         <label for="city">Your city:</label><br>
+         <input class="corners" type="text" placeholder="Enter your city"><br><br><br>
+
+         <label for="image">Upload the image of your city:</label><br><br>
+         <input class="typeFile" type="file" id="mMovie" name="mMovie"><br><br>
+         
+         
+         <label for="nice">Nice postcard?</label><br><br>
+         <label class="switch">
+            <input type="checkbox">
+            <span class="slider round"></span>
+         </label>
+        <br><br>
+        <br><input class="cornersSubmit" type="submit" id="mSubmit" name="mSubmit"><br>
+
+
+</form>
+</div>
+    
+
+<div class="footer">
+    © 2022 PostCards: Rights reserved
+</div>
+
+</body>
+</html>
